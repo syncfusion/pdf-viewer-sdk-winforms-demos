@@ -13,7 +13,14 @@ This section guides you to use the Syncfusion WinForms PDF Viewer SDK examples i
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
-The samples requires Visual Studio 2017 or higher to build, test and deploy. 
+The samples requires Visual Studio 2017 or higher to build, test and deploy.
+
+### Key Features
+
+#### WinForms PDF Viewer
+* Supports viewing and printing PDF files in WinForms applications.
+* Completely customizable appearance.
+* Provides easy navigation with hyperlinks and a table of contents, both within and outside PDF files.
 
 ## <a name="documentation"></a>Documentation ##
 
