@@ -8,7 +8,6 @@ This section guides you to use the Syncfusion WinForms PDF Viewer SDK examples i
 * [Documentation](#documentation)
 * [License](#license)
 * [Using the example](#using-the-example)
-* [Controls Catalog](#controls-catalog)
 * [Support and Feedback](#support-and-feedback)
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
@@ -47,5 +46,3 @@ The easiest way to use these sample without using Git is to download the zip fil
 * For any other queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing).
 
 * To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.
-  
-<p>Copyright © 2001-2021 Syncfusion, Inc. Updated on 2021-01-29 at precisely 10:37:48 EST.</p>
