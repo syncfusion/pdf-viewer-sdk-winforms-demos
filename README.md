@@ -1,4 +1,4 @@
-# Syncfusion WinForms examples
+# Syncfusion® PDF Viewer SDK WinForms Demos
 
 This repository contains the demos of [Syncfusion PDF Viewer SDK for WinForms](https://www.syncfusion.com/winforms-ui-controls/pdf-viewer). This is the best place to check our our WinForms PDF Viewer control to get more insight about the usage of APIs. The WinForms PDF Viewer SDK in which you can view, search and print PDF files in a native Windows Forms application.
 
