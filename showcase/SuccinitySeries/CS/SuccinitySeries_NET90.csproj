@@ -46,15 +46,15 @@
     <EmbeddedResource Include="PDF\WindowsStoreApps_Succinctly.pdf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
-    <PackageReference Include="Syncfusion.Compression.Base" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Core.WinForms" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Licensing" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Pdf.Wpf" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.PdfViewer.Windows" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Shared.Base" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Shared.Windows" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Tools.Base" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Tools.Windows" Version="31.2.2." />
+    <PackageReference Include="Syncfusion.Compression.Base" Version="*" />
+    <PackageReference Include="Syncfusion.Core.WinForms" Version="*" />
+    <PackageReference Include="Syncfusion.Licensing" Version="*" />
+    <PackageReference Include="Syncfusion.Pdf.Wpf" Version="*" />
+    <PackageReference Include="Syncfusion.PdfViewer.Windows" Version="*" />
+    <PackageReference Include="Syncfusion.Shared.Base" Version="*" />
+    <PackageReference Include="Syncfusion.Shared.Windows" Version="*" />
+    <PackageReference Include="Syncfusion.Tools.Base" Version="*" />
+    <PackageReference Include="Syncfusion.Tools.Windows" Version="*" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
