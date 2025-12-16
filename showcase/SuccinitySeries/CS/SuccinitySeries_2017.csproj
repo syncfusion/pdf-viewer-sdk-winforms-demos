@@ -36,14 +36,26 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Syncfusion.Compression.Base" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Core.WinForms" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Pdf.Wpf" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.PdfViewer.Windows" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Shared.Base" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Shared.Windows" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Tools.Base" Version="31.2.2." />
-    <PackageReference Include="Syncfusion.Tools.Windows" Version="31.2.2." />
+    <Reference Include="Syncfusion.Compression.Base">
+    </Reference>
+    <Reference Include="Syncfusion.Core.WinForms">
+    </Reference>
+    <Reference Include="Syncfusion.Licensing">
+    </Reference>
+    <Reference Include="Syncfusion.Pdf.Base">
+    </Reference>
+    <Reference Include="Syncfusion.PdfToImageConverter.Base">
+    </Reference>
+    <Reference Include="Syncfusion.PdfViewer.Windows">
+    </Reference>
+    <Reference Include="Syncfusion.Shared.Base">
+    </Reference>
+    <Reference Include="Syncfusion.Shared.Windows">
+    </Reference>
+    <Reference Include="Syncfusion.Tools.Base">
+    </Reference>
+    <Reference Include="Syncfusion.Tools.Windows">
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -153,9 +165,6 @@
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <ItemGroup>
-    <PackageReference Include="Syncfusion.Licensing" Version="31.2.2." />
-  </ItemGroup>
   <ItemGroup>
     <None Include="app.manifest" />
   </ItemGroup>
