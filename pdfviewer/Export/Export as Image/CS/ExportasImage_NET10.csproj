@@ -23,6 +23,7 @@
   <ItemGroup>
     <PackageReference Include="Syncfusion.Compression.Base" Version="32.2.3" />
     <PackageReference Include="Syncfusion.Pdf.WinForms" Version="32.2.3" />
+    <PackageReference Include="Syncfusion.PdfToImageConverter.WinForms" Version="32.2.3" />
     <PackageReference Include="Syncfusion.Tools.Windows" Version="32.2.3" />
     <PackageReference Include="Syncfusion.Shared.Base" Version="32.2.3" />
     <PackageReference Include="Syncfusion.PdfViewer.Windows" Version="32.2.3" />

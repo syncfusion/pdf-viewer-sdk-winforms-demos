@@ -91,6 +91,9 @@
     <Reference Include="Syncfusion.Shared.Base">
       <HintPath>packages\Syncfusion.Shared.Base.32.2.3\lib\net462\Syncfusion.Shared.Base.dll</HintPath>
     </Reference>
+	 <Reference Include="Syncfusion.PdfToImageConverter.Base">
+      <HintPath>packages\Syncfusion.PdfToImageConverter.WinForms.32.2.3\lib\net462\Syncfusion.PdfToImageConverter.Base.dll</HintPath>
+    </Reference>
     <Reference Include="Syncfusion.PdfViewer.Windows">
       <HintPath>packages\Syncfusion.PdfViewer.Windows.32.2.3\lib\net462\Syncfusion.PdfViewer.Windows.dll</HintPath>
     </Reference>
