@@ -60,6 +60,9 @@
     <Reference Include="Syncfusion.Tools.Windows">
       <HintPath>packages\Syncfusion.Tools.Windows.34.1.29\lib\net462\Syncfusion.Tools.Windows.dll</HintPath>
     </Reference>
+	<Reference Include="Syncfusion.Telemetry">
+      <HintPath>packages\Syncfusion.PdfViewer.Windows.34.1.29\lib\net462\Syncfusion.Telemetry.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

@@ -94,6 +94,9 @@
     <Reference Include="Syncfusion.PdfViewer.Windows">
       <HintPath>packages\Syncfusion.PdfViewer.Windows.34.1.29\lib\net462\Syncfusion.PdfViewer.Windows.dll</HintPath>
     </Reference>
+	<Reference Include="Syncfusion.Telemetry">
+      <HintPath>packages\Syncfusion.PdfViewer.Windows.34.1.29\lib\net462\Syncfusion.Telemetry.dll</HintPath>
+    </Reference>
     <Reference Include="System.Net.Http" />
     <Reference Include="System">
       <Name>System</Name>
