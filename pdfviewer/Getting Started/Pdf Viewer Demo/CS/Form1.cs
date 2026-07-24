@@ -13,6 +13,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using Syncfusion.Windows.Forms;
+using Syncfusion.Telemetry;
 
 namespace GettingStarted
 {
@@ -21,6 +22,7 @@ namespace GettingStarted
         # region Constructor
         public Form1()
         {
+            Telemetry.Disable();
             InitializeComponent();
 
             // Layout controls.
