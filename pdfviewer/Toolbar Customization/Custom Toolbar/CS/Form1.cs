@@ -13,6 +13,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using Syncfusion.Windows.Forms;
+using Syncfusion.Telemetry;
 
 namespace ToolbarCustomization_2005
 {
@@ -25,6 +26,7 @@ namespace ToolbarCustomization_2005
         # region Constructor
         public Form1()
         {
+            Telemetry.Disable();
             InitializeComponent();
 
             // Layout controls.

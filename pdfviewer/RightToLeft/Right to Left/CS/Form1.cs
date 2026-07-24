@@ -10,6 +10,7 @@ using System.Threading;
 using System.Windows.Forms;
 using Syncfusion.Windows.Forms;
 using Syncfusion.Windows.Forms.PdfViewer;
+using Syncfusion.Telemetry;
 
 namespace PDFViewerRTL
 {
@@ -20,6 +21,7 @@ namespace PDFViewerRTL
         public Form1()
         {
             Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("ar-AE");
+            Telemetry.Disable();
             InitializeComponent();
 
             pdfDocumentView = new PdfViewerControl();

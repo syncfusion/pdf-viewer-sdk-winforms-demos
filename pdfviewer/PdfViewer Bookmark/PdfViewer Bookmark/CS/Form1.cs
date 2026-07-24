@@ -11,6 +11,7 @@ using Syncfusion.Pdf.Parsing;
 using Syncfusion.Windows.Forms.PdfViewer;
 using Syncfusion.Pdf.Exporting;
 using Syncfusion.Pdf.Graphics;
+using Syncfusion.Telemetry;
 
 namespace GettingStarted
 {
@@ -19,6 +20,7 @@ namespace GettingStarted
         #region Constructor
         public Form1()
         {
+            Telemetry.Disable();
             InitializeComponent();
         }
         # endregion

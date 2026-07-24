@@ -24,6 +24,7 @@ using Syncfusion.Licensing;
 using System.Reflection;
 using System.IO;
 using System.Text;
+using Syncfusion.Telemetry;
 
 namespace EssentialPDFSamples
 {
@@ -50,6 +51,7 @@ namespace EssentialPDFSamples
             //
             // Required for Windows Form Designer support
             //
+            Telemetry.Disable();
             InitializeComponent();
             this.MinimizeBox = true;
             Application.EnableVisualStyles();

@@ -8,6 +8,7 @@ using System.Windows.Forms;
 using Syncfusion.Windows.Forms;
 using Syncfusion.PdfViewer.Windows;
 using Syncfusion.Windows.Forms.PdfViewer;
+using Syncfusion.Telemetry;
 
 namespace TabbedViewer_2008
 {
@@ -23,6 +24,7 @@ namespace TabbedViewer_2008
        
         public Form1()
         {
+            Telemetry.Disable();
             InitializeComponent();
 
             // Position and size of the form.

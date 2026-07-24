@@ -21,6 +21,7 @@
     <PackageReference Include="Syncfusion.Tools.Base" Version="34.1.29" />
     <PackageReference Include="Syncfusion.Tools.Windows" Version="34.1.29" />
     <PackageReference Include="Syncfusion.Licensing" Version="34.1.29" />
+	<PackageReference Include="Syncfusion.Telemetry" Version="34.1.29" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

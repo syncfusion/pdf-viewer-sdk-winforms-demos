@@ -51,6 +51,9 @@
     <Reference Include="Syncfusion.Shared.Base">
       <HintPath>packages\Syncfusion.Shared.Base.34.1.29\lib\net462\Syncfusion.Shared.Base.dll</HintPath>
     </Reference>
+	<Reference Include="Syncfusion.Telemetry">
+      <HintPath>packages\Syncfusion.PdfViewer.Windows.34.1.29\lib\net462\Syncfusion.Telemetry.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />

@@ -9,6 +9,7 @@ using Syncfusion.Windows.Forms.Tools;
 using Syncfusion.Windows.Forms;
 using System.Threading;
 using Syncfusion.WinForms.Controls;
+using Syncfusion.Telemetry;
 
 namespace SuccinitySeries
 {
@@ -19,6 +20,7 @@ namespace SuccinitySeries
         Image SelectedImage;
         public Form1()
         {
+            Telemetry.Disable();
             InitializeComponent();
             Rectangle rect = System.Windows.Forms.Screen.PrimaryScreen.Bounds;
             this.MinimumSize = new Size(rect.Width * 2 / 3, rect.Height * (3 / 2));
